@@ -22,7 +22,7 @@ Enable Utility Belt networking on each character:
 1. Open Utility Belt
 2. Go to `Settings -> Networking`
 3. Click `Tags`
-4. Assign the following network tag for each mule:
+4. Assign the following network tags for each mule:
 
 - Armor mule = `armor_mule, three`
 - Clothing mule = `clothing_mule, three`
