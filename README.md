@@ -55,6 +55,7 @@ Once everything is set up:
 1. Tell your primary mule `mule` to start the meta.
 2. Customize the loot and autopack profiles as needed.
 3. Use `reset` to stop the sequence, log in your armor mule, and return to the default state.
+4. The secondary mules will auto-nav to the primary mule.
 
 ## Important limitations
 
