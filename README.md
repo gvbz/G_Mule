@@ -1,6 +1,6 @@
 # G_Mule
 
-A meta for managing item transfer from a primary mule to secondary mules, with automatic bag organization with autopack.
+A meta for managing item transfer from a primary mule to secondary mules, with automatic bag organization using autopack.
 
 ## Requirements
 
