@@ -1,6 +1,6 @@
 # G_Mule
 
-A lightweight mule-management meta for managing item transfer from a primary mule to secondary mules, with automatic bag organization and autopack support.
+A meta for managing item transfer from a primary mule to secondary mules, with automatic bag organization with autopack.
 
 ## Requirements
 
@@ -10,7 +10,7 @@ This meta requires:
 - Mag-Filter
 - Utility Belt
 
-Recommended additional tools:
+Recommended additional plguins:
 
 - Oracle of Dereth
 - Virindi Global Inventory
