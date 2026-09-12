@@ -1,0 +1,978 @@
+UTL
+1
+93
+**AT**
+
+0;1;1
+16
+do not edit
+1
+(Salv) Alabaster
+
+0;2;12;3;1001;9999
+9
+66
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Armoredillo Hide
+
+0;2;12;3;1001;9999
+9
+53
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Bronze
+
+0;2;12;3;1001;9999
+9
+58
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Ceramic
+
+0;2;12;3;1001;9999
+8
+1
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Marble
+
+0;2;12;3;9999;1001
+9
+68
+131
+8
+4
+105
+6
+true
+3
+7
+(Salv) Peridot
+
+0;2;12;1001;9999
+9
+34
+131
+3
+7
+6
+true
+(Salv) Reed Shark Hide
+
+0;2;12;3;1001;9999
+9
+55
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Steel
+
+0;1;12;12
+9
+64
+131
+9
+100
+92
+(Salv) Wool
+
+0;2;12;3;1001;9999
+8
+8
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Yellow Topaz
+
+0;2;12;1001;9999
+9
+49
+131
+3
+7
+6
+true
+(Salv) Zircon
+
+0;2;12;1001;9999
+9
+50
+131
+3
+7
+6
+true
+
+
+0;1;9999;1
+6
+true
+24
+leave this disabled
+1
+**IT**
+
+0;1;1
+16
+do not edit
+1
+(Salv) Amber
+
+0;2;12;1001;9999
+9
+11
+131
+3
+7
+6
+true
+(Salv) Copper
+
+0;2;12;3;1001;9999
+9
+59
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Diamond
+
+0;2;12;1001;9999
+9
+20
+131
+3
+7
+6
+true
+(Salv) Ebony
+
+0;2;12;1001;9999
+9
+73
+131
+3
+7
+6
+true
+(Salv) Gold
+
+0;2;12;3;1001;9999
+9
+60
+131
+8
+3
+105
+3
+7
+6
+true
+(Salv) Gromnie Hide
+
+0;2;12;3;1001;9999
+9
+54
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Linen
+
+0;2;12;3;1001;9999
+8
+4
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Moonstone
+
+0;2;12;3;1001;9999
+9
+31
+131
+8
+4
+105
+3
+7
+6
+true
+(Salv) Pine
+
+0;2;12;3;1001;9999
+9
+76
+131
+8
+1
+105
+3
+7
+6
+true
+(Salv) Porcelain
+
+0;2;12;1001;9999
+8
+2
+131
+3
+7
+6
+true
+(Salv) Pyreal
+
+0;1;12;12
+9
+62
+131
+9
+100
+92
+(Salv) Ruby
+
+0;2;12;1001;9999
+9
+38
+131
+3
+7
+6
+true
+(Salv) Sapphire
+
+0;2;12;1001;9999
+9
+39
+131
+3
+7
+6
+true
+(Salv) Satin
+
+0;2;12;1001;9999
+8
+5
+131
+3
+7
+6
+true
+(Salv) Silver
+
+0;2;12;3;1001;9999
+9
+63
+131
+8
+5
+105
+3
+7
+6
+true
+(Salv) Teak
+
+0;2;12;1001;9999
+9
+77
+131
+3
+7
+6
+true
+
+
+0;1;9999;1
+6
+true
+24
+leave this disabled
+1
+**MIT**
+
+0;1;1
+16
+do not edit
+1
+(Salv) Agate
+
+0;2;12;1001;9999
+9
+10
+131
+3
+7
+6
+true
+(Salv) Azurite
+
+0;2;12;1001;9999
+9
+14
+131
+3
+7
+6
+true
+(Salv) Black Opal
+
+0;2;12;1001;9999
+9
+16
+131
+3
+7
+6
+true
+(Salv) Bloodstone
+
+0;2;12;1001;9999
+9
+17
+131
+3
+7
+6
+true
+(Salv) Carnelian
+
+0;2;12;1001;9999
+9
+18
+131
+3
+7
+6
+true
+(Salv) Citrine
+
+0;2;12;1001;9999
+9
+19
+131
+3
+7
+6
+true
+(Salv) Fire Opal
+
+0;2;12;1001;9999
+9
+22
+131
+3
+7
+6
+true
+(Salv) Green Garnet
+
+0;1;12;12
+9
+23
+131
+9
+100
+92
+(Salv) Hematite
+
+0;2;12;1001;9999
+9
+25
+131
+3
+7
+6
+true
+(Salv) Lapis Lazuli
+
+0;2;12;1001;9999
+9
+28
+131
+3
+7
+6
+true
+(Salv) Lavender Jade
+
+0;2;12;1001;9999
+9
+29
+131
+3
+7
+6
+true
+(Salv) Malachite
+
+0;2;12;1001;9999
+9
+30
+131
+3
+7
+6
+true
+(Salv) Opal
+
+0;2;12;3;1001;9999
+9
+33
+131
+8
+9
+105
+3
+7
+6
+true
+(Salv) Red Jade
+
+0;2;12;1001;9999
+9
+36
+131
+3
+7
+6
+true
+(Salv) Rose Quartz
+
+0;2;12;1001;9999
+9
+37
+131
+3
+7
+6
+true
+(Salv) Smokey Quartz
+
+0;2;12;1001;9999
+9
+40
+131
+3
+7
+6
+true
+(Salv) Sunstone
+
+0;2;12;1001;9999
+9
+41
+131
+3
+7
+6
+true
+
+
+0;1;9999;1
+6
+true
+24
+leave this disabled
+1
+**WT**
+
+0;1;1
+16
+do not edit
+1
+(Salv) Aquamarine
+
+0;2;12;1001;9999
+9
+13
+131
+3
+7
+6
+true
+(Salv) Black Garnet
+
+0;2;12;1001;9999
+9
+15
+131
+3
+7
+6
+true
+(Salv) Brass
+
+0;1;12;12
+9
+57
+131
+9
+100
+92
+(Salv) Emerald
+
+0;2;12;1001;9999
+9
+21
+131
+3
+7
+6
+true
+(Salv) Granite
+
+0;2;12;12
+9
+67
+131
+9
+100
+92
+(Salv) Imperial Topaz
+
+0;2;12;1001;9999
+9
+26
+131
+3
+7
+6
+true
+(Salv) Iron
+
+0;1;12;12
+9
+61
+131
+9
+100
+92
+(Salv) Jet
+
+0;2;12;1001;9999
+9
+27
+131
+3
+7
+6
+true
+(Salv) Mahogany
+
+0;1;12;12
+9
+74
+131
+9
+100
+92
+(Salv) Oak
+
+0;2;12;1001;9999
+9
+75
+131
+3
+7
+6
+true
+(Salv) Red Garnet
+
+0;2;12;1001;9999
+9
+35
+131
+3
+7
+6
+true
+(Salv) Velvet
+
+0;1;12;12
+8
+7
+131
+9
+100
+92
+(Salv) White Sapphire
+
+0;2;12;1001;9999
+9
+47
+131
+3
+7
+6
+true
+
+
+0;1;9999;1
+6
+true
+24
+leave this disabled
+1
+**Misc**
+
+0;1;1
+16
+do not edit
+1
+(Salv) Ivory
+
+0;2;12;1001;9999
+9
+51
+131
+3
+7
+6
+true
+(Salv) Leather
+
+0;2;12;1001;9999
+9
+52
+131
+3
+7
+6
+true
+(Salv) Sandstone
+
+0;2;12;1001;9999
+9
+70
+131
+3
+7
+6
+true
+(Salv) Silk
+
+0;2;12;1001;9999
+8
+6
+131
+3
+7
+6
+true
+
+
+0;1;9999;1
+6
+true
+24
+leave this disabled
+1
+**Useless**
+
+0;1;1
+16
+do not edit
+1
+(Salv) Amethyst
+
+0;2;12;1001;9999
+9
+12
+131
+3
+7
+6
+true
+(Salv) Green Jade
+
+0;2;12;1001;9999
+9
+24
+131
+3
+7
+6
+true
+(Salv) Obsidian
+
+0;2;12;1001;9999
+9
+69
+131
+3
+7
+6
+true
+(Salv) Onyx
+
+0;2;12;1001;9999
+9
+32
+131
+3
+7
+6
+true
+(Salv) Serpentine
+
+0;2;12;1001;9999
+9
+71
+131
+3
+7
+6
+true
+(Salv) Tiger Eye
+
+0;2;12;1001;9999
+9
+42
+131
+3
+7
+6
+true
+(Salv) Tourmaline
+
+0;2;12;1001;9999
+9
+43
+131
+3
+7
+6
+true
+(Salv) Turquoise
+
+0;1;12;12
+9
+44
+131
+9
+100
+92
+(Salv) White Jade
+
+0;2;12;1001;9999
+9
+45
+131
+3
+7
+6
+true
+(Salv) White Quartz
+
+0;2;12;1001;9999
+9
+46
+131
+3
+7
+6
+true
+(Salv) Yellow Garnet
+
+0;1;12;12
+9
+48
+131
+9
+100
+92
+(Salv) $$$$
+
+0;2;3;1001;3;9999
+11
+50000
+19
+3
+7
+8
+1
+131
+6
+true
+    (T) Mana Forge Key
+
+0;1;1;1;9999
+19
+Mana Forge Key
+1
+24
+^((?!Shattered).)*$
+1
+6
+true
+[C] Conquest Coin
+
+0;1;1;9999
+18
+Conquest Coin
+1
+6
+true
+[T] MMD Trade Note
+
+0;1;1;9999
+15
+Trade Note
+1
+6
+true
+[E] Event Coin
+
+0;1;1;9999
+16
+Dragon Coin
+1
+6
+true
+Small Shard
+
+0;1;1;9999
+16
+Small Shard
+1
+6
+true
+Dark Shard
+
+0;1;1;9999
+15
+Dark Shard
+1
+6
+true
+Dark Sliver
+
+0;1;1;9999
+16
+Dark Sliver
+1
+6
+true
+Treasure Map
+
+0;1;1;9999
+17
+Treasure Map
+1
+6
+true
+    (T) Rare!
+
+0;1;12;9999
+18
+23308
+218103850
+6
+true
+SalvageCombine
+277
+1
+1-6, 7-8, 9, 10
+25
+10
+1-10
+14
+1-10
+16
+1-10
+17
+1-10
+18
+1-10
+19
+1-10
+22
+1-10
+25
+1-10
+29
+1-10
+30
+1-10
+36
+1-10
+37
+1-10
+41
+1-10
+47
+1-10
+35
+1-10
+27
+1-10
+26
+1-10
+21
+1-10
+15
+1-10
+13
+1-10
+50
+1-10
+49
+1-10
+34
+1-10
+52
+1-10
+51
+1-10
+0
